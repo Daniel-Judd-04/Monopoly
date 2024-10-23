@@ -15,6 +15,7 @@ Location Context Key:
 - "[1-4]" = Number of houses
 
 **Example Board (B&W):**
+```
  =-=-=-=-=-=-=-= Current Board =-=-=-=-=-=-=-=  |  Player Information:
  Remaining Houses = 32 | Remaining Hotels = 12  |  Bob (£1500) At: Pentonville Rd.
                                                 |  Doesn't own any properties
@@ -34,3 +35,4 @@ Location Context Key:
       (Bob/John)      (Will)                    |
  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=  |
 John (£1500) is currently at Pentonville Road [-] (£120)
+```
